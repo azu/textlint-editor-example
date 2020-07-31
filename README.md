@@ -1,16 +1,8 @@
 # textlint-editor-example
 
+[textlint editor](https://github.com/textlint/editor)'s `@textlint/website-generator` demo.
 
-
-## Install
-
-Install with [npm](https://www.npmjs.com/):
-
-    npm install textlint-editor-example
-
-## Usage
-
-- [ ] Write usage instructions
+- <https://azu.github.io/textlint-editor-example/>
 
 ## Changelog
 
