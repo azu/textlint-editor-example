@@ -14,7 +14,7 @@
   "license": "MIT",
   "author": "azu",
   "scripts": {
-    "website": "textlint-website-generator --outputDir public"
+    "website": "textlint-website-generator --outputDir public --title 'textlint editor demo' --placeholder '今すぐ書くことができる。'"
   },
   "dependencies": {
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^1.0.1",
