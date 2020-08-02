@@ -1,6 +1,6 @@
-# textlint-editor-example
+# textlint-editor-english-rule
 
-[textlint editor](https://github.com/textlint/editor)'s `@textlint/website-generator` demo.
+[textlint editor](https://github.com/textlint/editor)'s rule for englight
 
 - <https://azu.github.io/textlint-editor-example/>
 

@@ -17,15 +17,15 @@
     "website": "textlint-website-generator --outputDir public --title 'textlint editor demo' --placeholder 'It isnt not valid txt.'"
   },
   "dependencies": {
-    "@textlint/compiler": "^0.2.2",
+    "@babel/core": "^7.11.0",
+    "@textlint/compiler": "^0.6.0",
     "rimraf": "^3.0.2",
     "textlint": "^11.7.6",
     "textlint-rule-alex": "^2.1.0",
     "textlint-rule-common-misspellings": "^1.0.1",
-    "textlint-rule-en-capitalization": "^2.0.2",
-    "textlint-rule-terminology": "^2.1.4"
+    "textlint-rule-en-capitalization": "^2.0.2"
   },
   "devDependencies": {
-    "@textlint/website-generator": "^0.3.0"
+    "@textlint/website-generator": "^0.6.0"
   }
 }
