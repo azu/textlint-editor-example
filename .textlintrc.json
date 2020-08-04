@@ -1,12 +1,15 @@
 {
   "filters": {},
   "rules": {
+    "preset-japanese": true,
     "@textlint-ja/no-insert-dropping-sa": true,
     "@textlint-rule/no-unmatched-pair": true,
     "date-weekday-mismatch": true,
     "no-start-duplicated-conjunction": true,
-    "preset-japanese": true,
     "ja-no-redundant-expression": true,
-    "ja-unnatural-alphabet": true
+    "ja-unnatural-alphabet": true,
+    "@proofdict/proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    }
   }
 }
