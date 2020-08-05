@@ -14,7 +14,7 @@
   "license": "MIT",
   "author": "azu",
   "scripts": {
-    "website": "textlint-website-generator --outputDir public --title 'textlint editor demo' --placeholder '今すぐ書くことができる。'"
+    "website": "textlint-website-generator --outputDir public --title 'textlint editor demo' --placeholder '今すぐ書くことができる。' --metadataId textlint-editor-example-ja --metadataNamespace https://github.com/azu"
   },
   "dependencies": {
     "@proofdict/textlint-rule-proofdict": "^3.0.0",
