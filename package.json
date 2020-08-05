@@ -30,6 +30,6 @@
     "textlint-rule-preset-japanese": "^5.0.0"
   },
   "devDependencies": {
-    "@textlint/website-generator": "^0.6.0"
+    "@textlint/website-generator": "^0.7.0"
   }
 }
