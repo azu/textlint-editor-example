@@ -7,9 +7,6 @@
     "date-weekday-mismatch": true,
     "no-start-duplicated-conjunction": true,
     "ja-no-redundant-expression": true,
-    "ja-unnatural-alphabet": true,
-    "@proofdict/proofdict": {
-      "dictURL": "https://azu.github.io/proof-dictionary/"
-    }
+    "ja-unnatural-alphabet": true
   }
 }
