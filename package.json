@@ -17,7 +17,7 @@
     "website": "textlint-website-generator --outputDir public --title 'textlint editor demo' --placeholder '今すぐ書くことができる。' --metadataName textlint-editor-example-ja --metadataNamespace https://github.com/azu"
   },
   "dependencies": {
-    "@proofdict/textlint-rule-proofdict": "^3.1.0",
+    "@proofdict/textlint-rule-proofdict": "^3.1.1",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^1.0.1",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "^1.0.7",
     "@textlint/compiler": "^0.6.0",
